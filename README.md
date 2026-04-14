@@ -52,13 +52,8 @@ This project focuses on identifying and analyzing phishing emails. The goal is t
 - Confirm requests from official sources
 - Report phishing emails
 
-## 📚 References
-- https://www.phishing.org  
-- https://owasp.org  
-- https://www.cisa.gov/phishing  
-
 ## 👤 Author
-Raif Mohd
+Raif
 
 ## 📅 Project Type
 Cyber Security / Phishing Email Analysis
